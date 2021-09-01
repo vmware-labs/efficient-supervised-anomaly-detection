@@ -8,7 +8,7 @@ usage.
 The current implementation of RADE augments either Random-Forest or XGBoost.
 
 More information about RADE can be found in:<br/>
-arXiv: [RADE: Resource-Efficient Supervised Anomaly Detection Using Decision Tree-Based Ensemble Methods](https://arxiv.org/pdf/1909.11877.pdf)
+arXiv: [RADE: Resource-Efficient Supervised Anomaly Detection Using Decision Tree-Based Ensemble Methods](https://arxiv.org/pdf/1909.11877.pdf){:target="_blank"}
 
 ## Files:
 
