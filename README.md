@@ -1,29 +1,35 @@
+# RADE Sci-Kit Classifier (v1.0)
 
-# efficient-supervised-anomaly-detection
+RADE is a resource-efficient decision tree ensemble method (DTEM) based anomaly 
+detection approach that augments standard DTEM classifiers resulting in 
+competitive anomaly detection capabilities and significant savings in resource 
+usage.
 
-## Overview
+The current implementation of RADE augments either Random-Forest or XGBoost.
 
-## Try it out
+More information about RADE can be found in:<br/>
+arXiv: [RADE: Resource-Efficient Supervised Anomaly Detection Using Decision Tree-Based Ensemble Methods](https://arxiv.org/pdf/1909.11877.pdf)
 
-### Prerequisites
+## Files:
 
-* Prereq 1
-* Prereq 2
-* Prereq 3
+#### rade_classifier.py 
+RADE sci-kit classifier
 
-### Build & Run
+#### example_program.py
+Basic comparison example between RF, XGBoost, and RADE
 
-1. Step 1
-2. Step 2
-3. Step 3
+#### requirments.txt
+Install CMake 3.13 or higher.<br/>
+Then, to install RADE's prerequisities, run:<br/>
+$ pip3 install -r requirments.txt
 
-## Documentation
+## Prerequisities:
+numpy<br/>
+pandas<br/>
+sklearn<br/>
+xgboost (CMake 3.13 or higher is required)<br/>
 
-## Contributing
 
-The efficient-supervised-anomaly-detection project team welcomes contributions from the community. Before you start working with efficient-supervised-anomaly-detection, please
-read our [Developer Certificate of Origin](https://cla.vmware.com/dco). All contributions to this repository must be
-signed as described on that page. Your signature certifies that you wrote the patch or have the right to pass it on
-as an open-source patch. For more detailed information, refer to [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## License
+For more information, support and advanced examples contact:<br/>
+Yaniv Ben-Itzhak, [ybenitzhak@vmware.com](mailto:ybenitzhak@vmware.com)<br/>
+Shay Vargaftik, [shayv@vmware.com](mailto:shayv@vmware.com)<br/>
