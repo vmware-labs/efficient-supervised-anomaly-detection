@@ -12,11 +12,9 @@ More information about RADE can be found in:<br/>
 
 ## Files:
 
-#### rade_classifier.py 
-RADE sci-kit classifier
+#### rade_classifier.py - RADE sci-kit classifier
 
-#### example_program.py
-Basic comparison example between RF, XGBoost, and RADE
+#### example_program.py - Basic comparison example between RF, XGBoost, and RADE
 
 ## Installation:
 Install CMake 3.13 or higher.<br/>
