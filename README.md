@@ -8,7 +8,7 @@ usage.
 The current implementation of RADE augments either Random-Forest or XGBoost.
 
 More information about RADE can be found in:<br/>
-arXiv: [RADE: Resource-Efficient Supervised Anomaly Detection Using Decision Tree-Based Ensemble Methods](https://arxiv.org/pdf/1909.11877.pdf)
+<a href="https://rdcu.be/cw4AL">RADE: resource‑efficient supervised anomaly detection using decision tree‑based ensemble methods</a><be> (Springer ML)
 
 ## Files:
 
@@ -18,7 +18,7 @@ RADE sci-kit classifier
 #### example_program.py
 Basic comparison example between RF, XGBoost, and RADE
 
-#### requirments.txt
+## Installation:
 Install CMake 3.13 or higher.<br/>
 Then, to install RADE's prerequisities, run:<br/>
 $ pip3 install -r requirments.txt
