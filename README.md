@@ -1,4 +1,4 @@
-# RADE Sci-Kit Classifier (v1.0)
+# RADE scikit Classifier (v1.0)
 
 RADE is a resource-efficient decision tree ensemble method (DTEM) based anomaly 
 detection approach that augments standard DTEM classifiers resulting in 
