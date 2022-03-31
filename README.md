@@ -16,17 +16,15 @@ More information about RADE can be found in:<br/>
 
 #### example_program.py - Basic comparison example between RF, XGBoost, and RADE
 
-## Installation:
-Install CMake 3.13 or higher.<br/>
-Then, to install RADE's prerequisities, run:<br/>
-$ pip3 install -r requirments.txt
 
 ## Prerequisities:
 numpy<br/>
 pandas<br/>
 sklearn<br/>
-xgboost (CMake 3.13 or higher is required)<br/>
+xgboost<br/>
 
+or alternatively run:<br/>
+$ pip3 install -r requirments.txt
 
 For more information, support and advanced examples contact:<br/>
 Yaniv Ben-Itzhak, [ybenitzhak@vmware.com](mailto:ybenitzhak@vmware.com)<br/>
