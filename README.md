@@ -24,7 +24,7 @@ sklearn<br/>
 xgboost<br/>
 
 or alternatively run:<br/>
-$ pip3 install -r requirments.txt
+$ pip3 install -r requirements.txt
 
 For more information, support and advanced examples contact:<br/>
 Yaniv Ben-Itzhak, [ybenitzhak@vmware.com](mailto:ybenitzhak@vmware.com)<br/>
